@@ -70,10 +70,10 @@ Database schema is written by AqueryTool (https://www.erdcloud.com/)
 ![Alt Text](./Doc/NMS-Schema.png)<br/>
 
 # 프로젝트 설게서 
-[문서]](./Doc/Project.md)
+[문서 링크](https://github.com/hankkuu-server/SimpleADO/blob/master/Doc/Project.md)
 
 # 기능 정의서
-[문서]](./Doc/Definition.md)
+[문서 링크](https://github.com/hankkuu-server/SimpleADO/blob/master/Doc/Definition.md)
 
 ## Visual Studio Version
 2019 profesional
